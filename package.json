@@ -16,5 +16,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://timsmith78.github.io/CatClickyGame"
+  "homepage": "https://timsmith78.github.io/CatClickyGame-timsmith78"
 }
